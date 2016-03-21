@@ -1,0 +1,20 @@
+body {
+  background-color: #d0d0d0;
+  text-align: center;
+  margin: 5% 25%;
+}
+
+h1 {
+  color: red;
+  font-family: Helvetica, sans-serif;
+}
+
+p {
+  font-family: papyrus, fantasy, serif;
+}
+
+ul {
+  font-family: papyrus, fantasy, serif;
+  text-align: left;
+  margin-top: 5%;
+}
