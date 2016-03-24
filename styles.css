@@ -1,5 +1,5 @@
 body {
-  background-color: #d0d0d0;
+  background-color: lightblue;
   text-align: center;
   margin: 5% 25%;
 }
@@ -7,14 +7,15 @@ body {
 h1 {
   color: red;
   font-family: Helvetica, sans-serif;
+  font-size: 400%;
 }
 
 p {
-  font-family: papyrus, fantasy, serif;
+  font-family: serif;
 }
 
 ul {
-  font-family: papyrus, fantasy, serif;
+  font-family: serif;
   text-align: left;
   margin-top: 5%;
 }
